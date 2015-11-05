@@ -8,7 +8,5 @@
 ### Get the bundle using composer
 
 ```bash
-composer require venture-oak-labs/favicon-generator-bundle
+composer require venture-oak-labs/wsdl2php-generator-cli-bundle
 ```
-
-### This bundle is still in beta version!
