@@ -1,0 +1,23 @@
+{
+    "name": "venture-oak-labs/wsdl2php-generator-cli-bundle",
+    "type": "symfony-bundle",
+    "description": "Bundle to integrate Console Client for wsdl2phpgenerator",
+    "keywords": ["symfony", "wsdl2phpgenerator", "console", "command", "bundle"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "João Alves",
+            "email": "jalves@ventureoak.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "symfony/framework-bundle": "~2.3",
+        "venture-oak-labs/wsdl2php-generator-cli": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "VentureOakLabs\\Wsdl2PhpGeneratorCliBundle\\": "src"
+        }
+    }
+}
