@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4",
         "symfony/framework-bundle": "~2.3",
-        "venture-oak-labs/wsdl2php-generator-cli": "dev-master"
+        "venture-oak-labs/wsdl2php-generator-cli": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
